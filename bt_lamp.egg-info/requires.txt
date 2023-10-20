@@ -1,0 +1,2 @@
+crcmod>=1.7
+bleson>=0.1.8
